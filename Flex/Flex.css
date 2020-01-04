@@ -1,0 +1,62 @@
+.jf-flex {
+    display: flex; 
+}
+.jf-flex-direction-row {
+    flex-direction: row;
+}
+.jf-flex-direction-column {
+    flex-direction: column;
+}
+.jf-flex-direction-row-reverse {
+    flex-direction: row-reverse;
+}
+.jf-flex-direction-column-reverse {
+    flex-direction: column-reverse;
+}
+
+.jf-flex-wrap-wrap {
+    flex-wrap: wrap;
+}
+.jf-flex-wrap-nowrap {
+    flex-wrap: nowrap;
+}
+.jf-flex-wrap-wrap-reverse {
+    flex-wrap: wrap-reverse;
+}
+.jf-flex-justify-start {
+    justify-content: start;
+}
+.jf-flex-justify-end {
+    justify-content: end;
+}
+.jf-flex-justify-center {
+    justify-content: center;
+}
+.jf-flex-justify-between {
+    justify-content: between;
+}
+.jf-flex-justify-around {
+    justify-content: around;
+}
+.jf-flex-align-start {
+    align-items: flex-start;
+}
+.jf-flex-align-end {
+    align-items: flex-end;
+}
+.jf-flex-align-center {
+    align-items: center;
+}
+.jf-flex-align-baseline {
+    align-items: baseline;
+}
+.jf-flex-align-stretch {
+    align-items: stretch;
+}
+.jf-flex-item {
+    flex: 1;
+    text-align: center;
+}
+.jf-flex-item + .jf-flex-item {
+    margin-left: 8px;
+}

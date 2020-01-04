@@ -1,0 +1,28 @@
+.jf-whitespace-lg {
+    display: block;
+    background: white;
+    height: 15px;
+}
+
+.jf-whitespace-md {
+    display: block;
+    background: white;
+    height: 9px;
+}
+.jf-whitespace-sm {
+    display: block;
+    background: white;
+    height: 6px;
+}
+
+.jf-whitespace-xs {
+    display: block;
+    background: white;
+    height: 3px;
+}
+
+.jf-whitespace-xl {
+    display: block;
+    background: white;
+    height: 21px;
+}
